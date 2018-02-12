@@ -1,7 +1,7 @@
 {
-  "name": "liri-node-app",
+  "name": "Hey-Liri",
   "version": "1.0.0",
-  "description": "Liri node application. Week 10 homework UT Coding Bootcamp",
+  "description": "Hey Liri, make yourself useful and give me some damn information for once.",
   "main": "keys.js",
   "dependencies": {
     "fs": "0.0.2",
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Multishifties/liri-node-app.git"
+    "url": "git+https://github.com/BenjaminRaffle81/Hey-Liri"
   },
-  "author": "",
+  "author": "Benjamin Evelyn Raffle, IV",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Multishifties/liri-node-app/issues"
+    "url": "https://github.com/BenjaminRaffle81/Hey-Liri"
   },
-  "homepage": "https://github.com/Multishifties/liri-node-app#readme"
+  "homepage": "https://github.com/BenjaminRaffle81/Hey-Liri"
 }
